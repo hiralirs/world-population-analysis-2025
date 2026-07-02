@@ -52,12 +52,12 @@ Based on the initial programmatic audit (`df.head()`), the ingestion layer safel
 
 As prioritized in professional project portfolios, visual data layers provide faster situational context than code frameworks. The analysis isolates critical behaviors using the following core visual models:
 
-### 1. Global Superpower Distribution (Barplot)
-This analysis highlights the world's most populated geographic nations. The chart isolates significant scale margins separating high-growth geographic leaders like India and China from other regional territories.
+### 1. Global Population Distribution (Barplot)
+This analysis highlights the world's most populated geographic nations. The chart highlights the significant population disparities between the  top-ranked nations,such as India and China and remainder of dataset.
 
 ![Top 10 Global Populations](barplot_population.png)
 
-### 2. Density Concentration Variations (Boxplot)
+### 2.Population Density Distribution (Boxplot)
 By isolating population densities (`Density (P/Km²)`), this visual maps statistical distributions and highlights extreme demographic clustering anomalies. It indicates whether localized landmass constraints directly accelerate urban migration metrics.
 
 ![Density and Demographic Spread](boxplot_density.png)
