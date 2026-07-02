@@ -52,9 +52,8 @@ Based on the initial programmatic audit (`df.head()`), the ingestion layer safel
 
 As prioritized in professional project portfolios, visual data layers provide faster situational context than code frameworks. The analysis isolates critical behaviors using the following core visual models:
 
-### 1. Global Population Distribution (Barplot)gi
-This analysis highlights the world's most populated geographic nations.The chart highlights the significant population disparities between the  top-ranked nations,such as India and China and remainder of dataset.
-
+### 1. Global Population Distribution (Barplot)
+This analysis highlights the world's most populated geographic nations. The chart highlights the significant population disparities between the  top-ranked nations,such as India and China and remainder of dataset.
 
 ![Top 10 Global Populations](Images/barplot_population.png)
 
